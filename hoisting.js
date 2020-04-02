@@ -14,7 +14,7 @@ function crazy() {
   var thisIsCrazy = function (){
   console.log("hey!!!")
 
-  // ix the code in here:
+  // fix the code in here:
 
 
   }
@@ -26,10 +26,11 @@ function sayMyName() {
   // fix the code in here:
   var name = "Cricky";
 
-  sayMy();
+  
 
   function sayMy() {
+    var name = "Kristin
     console.log(name);
-    var name = "Kristin";
   }
+  sayMy();
 }

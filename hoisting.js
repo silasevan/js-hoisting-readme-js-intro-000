@@ -19,7 +19,7 @@ function crazy() {
   }
   thisIsCrazy();
 }
-  thisIsCrazy();
+
 
 function sayMyName() {
   // fix the code in here:

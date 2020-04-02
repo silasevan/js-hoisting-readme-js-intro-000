@@ -14,7 +14,7 @@ function crazy() {
   // fix the code in here:
   thisIsCrazy();
 
-  
+
   }
   thisIsCrazy();
 

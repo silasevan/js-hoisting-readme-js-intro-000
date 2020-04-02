@@ -8,9 +8,8 @@ function callMe() {
   return lyric;
 }
 
-
+var thisIsCrazy = function (){
 function crazy() {
-  var thisIsCrazy = function (){
     console.log("hey!!!")
   // fix the code in here:
 
